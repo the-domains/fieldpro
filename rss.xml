@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FieldPro]]></title>
+        <description><![CDATA[FieldPro]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Dec 2015 22:55:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>App by LiquidFrameworks  The LiquidFrameworks FieldFX® product suite is a complete mobile field operations platform built for oil and gas, industrial and environmental services companies. FieldFX provides features for e-field ticketing, quotes, job management, scheduling & more.</p>]]></description>
+            <link>undefinedapp-by-liquidframeworks-the-liquidframeworks-fieldfxr-produ/index.html</link>
+            <guid isPermaLink="false">5f2f23b7-662e-4932-905a-020b17f97909</guid>
+            <pubDate>Thu, 17 Dec 2015 22:55:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
