@@ -1,11 +1,11 @@
 ---
 description: 'App by LiquidFrameworks  The LiquidFrameworks FieldFX® product suite is a complete mobile field operations platform built for oil and gas, industrial and enviro'
 author: []
-datePublished: '2015-12-17T22:55:06.362Z'
+datePublished: '2015-12-17T22:55:06.375Z'
 publisher:
   domain: appexchange.salesforce.com
   name: appexchange.salesforce.com
-dateModified: '2015-12-17T22:42:59.658Z'
+dateModified: '2015-12-17T22:47:03.179Z'
 title: ''
 sourcePath: _posts/2015-12-17-app-by-liquidframeworks-the-liquidframeworks-fieldfxr-produ.md
 published: true
